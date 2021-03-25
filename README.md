@@ -17,3 +17,16 @@
 - Fazer deploy da aplicação apontando o jenkins para um projeto na nuvem com heroku <br>
 - Criar a pipeline no gitlab implantando o projeto. <br>
 - Aplicar os dados da criação de máquinas no azure aks  <br>
+
+# Grupo
+- A
+  - Ana Amarante & Thiago Martin
+- B
+  - Helton igor & Victor Sobre
+- C
+  - Pedro Dalston
+  - Rodigo de Carvalho
+- D
+  - Thiago Galeno
+  - Lucas Costa
+  - Luiz Eduardo 
