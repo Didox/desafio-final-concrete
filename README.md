@@ -20,9 +20,12 @@
 
 # Grupo
 - A
-  - Ana Amarante & Thiago Martin
+  - Ana Amarante
+  - Thiago Martin
 - B
-  - Helton igor & Victor Sobre
+  - Helton igor
+  - Victor Sobre
+  - Alexandre
 - C
   - Pedro Dalston
   - Rodigo de Carvalho
