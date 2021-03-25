@@ -1,4 +1,4 @@
-# Projeto final concrete DevOps 
+# Projeto final Concrete DevOps 
  
 - Desenvolver um projeto em MVC (Para mostrar suas habilidades, uma espécie de currículo, Exemplo: http://www.daniloaparecido.com.br/ nesta aplicação teremos uma sessão de validação de CPF) faça os testes de TDD desta validação <br>
 - Criar o plano de testes com BDD fazendo o teste de comportamento para ver se o site abre e valida o CPF <br>
