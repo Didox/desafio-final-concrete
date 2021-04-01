@@ -24,7 +24,7 @@
   - Thiago Martin
 - B
   - Helton igor
-  - Victor Sobre
+  - Victor Sodre
   - Alexandre
 - C
   - Pedro Dalston
